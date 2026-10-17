@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Disallow: /_previews/
+
+Sitemap: https://leschantierspro.ca/sitemap.xml
