@@ -347,3 +347,9 @@ section{padding:64px 0}
 .no-js .reveal{opacity:1;transform:none}
 @media (prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}}
 @media print{.hdr,.annc,.ftr,.cta-band{display:none}}
+/* AI agent box (home, how it works) */
+.aibox{margin-top:24px;border:1px solid var(--line-2);border-left:4px solid var(--teal);border-radius:var(--r);background:var(--soft-2);padding:18px 20px}
+.aibox h3{font-size:1.02rem;margin:0}
+.aibox .checks{margin-top:12px;gap:8px;font-size:15px}
+.aibox .small{margin:12px 0 0}
+.ftr-mini{padding:20px 0;font-size:13px;text-align:center}.ftr-mini p{color:#c6cfdb}
